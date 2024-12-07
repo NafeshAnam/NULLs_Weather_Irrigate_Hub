@@ -7,8 +7,8 @@ The NULL's Weather Irrigate Hub is an innovative project aimed at creating a sma
 
 # Objectives: 
 
-  • Design & implement a smart irrigation system capable of monitoring soil moisture levels and adjusting irrigation schedules accordingly.
-  • A weather monitoring system to gather real-time data on temperature, humidity & precipitation
+  - Design & implement a smart irrigation system capable of monitoring soil moisture levels and adjusting irrigation schedules accordingly.
+  - A weather monitoring system to gather real-time data on temperature, humidity & precipitation
 
 # Equipment List :
 
